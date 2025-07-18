@@ -1,7 +1,6 @@
 {
   "functions": {
-    "api/generate-cv.js": {
+    "api/*.js": {
       "runtime": "nodejs20.x"
     }
   }
-}
